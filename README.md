@@ -45,14 +45,18 @@ WickedOS has everything you need to load your games and play .
     
     7.Find game and copy to desired location .
     
-    notes this will fail with larger files. 
+    note this will fail with larger files. 
     
 ## Hows this different from Konstakangs build ?
 
 WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. 
 
+## Where/When?
+
+-Should be on arcade punks and our mediafire in a week or two tops .
 
 ## Sources/Props
-Konstakang
-Website:  
-https://konstakang.com/devices/rpi4/LineageOS17.1/
+
+## Konstakang
+    Website:  
+    https://konstakang.com/devices/rpi4/LineageOS17.1/
