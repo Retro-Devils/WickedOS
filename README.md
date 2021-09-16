@@ -61,7 +61,9 @@ Download open_gapps-arm-10.0-pico-xxxxxxxx.zip and save it to your device’s in
 
 Install open_gapps-arm-10.0-pico-xxxxxxxx.zip from your selected storage
 
-Wipe -> Factory reset!Boot out of recovery.
+Wipe -> Factory reset!
+
+Boot out of recovery.
 
 See Konstakangs site for more about play store .
 
