@@ -1,5 +1,5 @@
 # WickedOS
-A android based operating system for Raspberry pi . ..
+A android based operating system for Raspberry pi 4.
 
 WickedOS is built on konstakangs lineage 17.1 and use Dig as frontend. (Some builds from us may use Pegasus frontend )
 
@@ -53,11 +53,33 @@ WickedOS has everything installed for ya. Retroarch, other emus, a retro fronten
 
 ## Where/When?
 
--Should be on arcade punks and our mediafire in a week or two tops .
+Should be on arcade punks and our mediafire in a week or two tops .
 
-## Sources/Props
+## How to add Google Play store ? 
 
-## Konstakang
+Download open_gapps-arm-10.0-pico-xxxxxxxx.zip and save it to your device’s internal storage or use an external USB driveBoot to TWRP recovery (see FAQ)Install open_gapps-arm-10.0-pico-xxxxxxxx.zip from your selected storageWipe -> Factory reset!Boot out of recovery.
 
-    Website:  
-    https://konstakang.com/devices/rpi4/LineageOS17.1/
+## Please see Konstakangs Website for more FAQ.
+
+
+## Sources/Props/Credits
+
+## Konstakang. The reason this is possible. 
+
+Website:  https://konstakang.com/devices/rpi4/LineageOS17.1/
+
+## Credits from Konstakangs site 
+
+Peter Yoon and everyone who has contributed to android-rpibrobwind for bluetooth fixes
+
+Roman Stratiienko and GloDroid project for graphics fixes
+
+Eric Anholt for V3D graphics driver
+
+Maxime Ripard for Pi 4 KMS driver
+
+Google for Android Things platform
+
+Android-x86 project
+
+LineageOS team & everyone who has contributed to LineageOS 17.1
