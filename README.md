@@ -5,11 +5,11 @@ WickedOS is built on konstakangs lineage 17.1 .
 
 WickedOS has everything ypu need to load your games and play . 
 
-F.A.Q 
+## F.A.Q 
 
--How do I add games ? 
+## How do I add games ? 
 
-Large games or packs follow these instructions 
+## Large games or packs follow these instructions 
 
     1.Plug in keyboard press and hold f5. 
     
@@ -29,7 +29,7 @@ Large games or packs follow these instructions
     
     9. Click confirm . Repeat per game folder .
  
-Small games follow these instructions 
+## Small games follow these instructions 
 
     1.Plug in USB drive.
     
@@ -46,3 +46,5 @@ Small games follow these instructions
     7.Find game and copy to desired location .
     
     notes this will fail with larger files. 
+    
+## Hows this different from Konstakangs build ?
