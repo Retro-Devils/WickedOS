@@ -84,11 +84,11 @@ You can easily do this yourself to a extent. We built custom themes, used differ
 
 ## Sources/Props/Credits
 
-## Konstakang. The reason this is possible. 
+Konstakang. The reason this is possible. 
 
 Website:  https://konstakang.com/devices/rpi4/LineageOS17.1/
 
-## Credits from Konstakangs site 
+Credits from Konstakangs site 
 
 Peter Yoon and everyone who has contributed to android-rpibrobwind for bluetooth fixes
 
