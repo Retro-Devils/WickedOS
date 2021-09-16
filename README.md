@@ -6,6 +6,7 @@ WickedOS is built on konstakangs lineage 17.1 .
 WickedOS has everything ypu need to load your games and play . 
 
 F.A.Q 
+
 -How do I add games ? 
 
 Large games or packs follow these instructions 
