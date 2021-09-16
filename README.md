@@ -54,4 +54,5 @@ WickedOS has everything installed for ya. Retroarch, other emus, a retro fronten
 
 ## Sources/Props
 Konstakang
-Website 
+Website:  
+https://konstakang.com/devices/rpi4/LineageOS17.1/
