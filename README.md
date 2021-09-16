@@ -48,3 +48,6 @@ WickedOS has everything ypu need to load your games and play .
     notes this will fail with larger files. 
     
 ## Hows this different from Konstakangs build ?
+
+WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. pre installed.
+
