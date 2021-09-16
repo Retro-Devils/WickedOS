@@ -1,7 +1,7 @@
 # WickedOS
 A android based operating system for Raspberry pi . ..
 
-WickedOS is built on konstakangs lineage 17.1 .
+WickedOS is built on konstakangs lineage 17.1 and use Dig as frontend. (Some builds from us may use Pegasus frontend )
 
 WickedOS has everything you need to load your games and play . 
 
@@ -58,5 +58,6 @@ WickedOS has everything installed for ya. Retroarch, other emus, a retro fronten
 ## Sources/Props
 
 ## Konstakang
+
     Website:  
     https://konstakang.com/devices/rpi4/LineageOS17.1/
