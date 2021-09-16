@@ -49,5 +49,9 @@ WickedOS has everything ypu need to load your games and play .
     
 ## Hows this different from Konstakangs build ?
 
-WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. pre installed.
+WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. 
 
+
+## Sources/Props
+Konstakang
+Website 
