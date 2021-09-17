@@ -7,6 +7,19 @@ WickedOS has everything you need to load your games and play .
 
 ## F.A.Q 
 
+## What can this play?
+
+Retroarch is the main emu used. So most normal retroarch cores .
+
+N64, psp, dreamcast, and nds use standalone emulators.  
+
+N64 performance is very smooth . Most games function better than retropie. This is due to emus used that were designed for android low end phones 
+
+Psp, dremcast and NDS performance is about the same as retropie . 
+
+Sega Saturn performance is still quite slow and not worth the time really.
+
+
 ## How do I add games ? 
 
 ## Large games or packs follow these instructions 
@@ -50,6 +63,12 @@ WickedOS has everything you need to load your games and play .
 ## Hows this different from Konstakangs build ?
 
 WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. 
+
+## How to add android games ? 
+
+We use apkpure to sideload must our apps.  
+
+If you need google play services you'll have to install Google play and services.
 
 ## Where/When?
 
