@@ -1,9 +1,25 @@
+Updatd September 29,2021
+
 # WickedOS
 A android based operating system for Raspberry pi 4.
 
-WickedOS is built on konstakangs lineage 17.1
+WickedOS is built on konstakangs lineage 18.1
 
 WickedOS has everything you need to load your games and play . 
+
+## First Boot Setup 
+
+- You need a keyboard and mouse plugged in.
+
+- Press and hold F5 press reboot the recovery .
+
+- After reboot click "Install"
+
+- Find /sdcard/Tools/TWRP/resizePI4.zip 
+
+- This is resizing your the image to your SD card size . 
+
+- Swipe to install wait then reboot to system , 
 
 ## F.A.Q 
 
@@ -18,7 +34,6 @@ N64 performance is very smooth . Most games function better than retropie. This 
 Psp, dremcast and NDS performance is about the same as retropie . 
 
 Sega Saturn performance is still quite slow and not worth the time really.
-
 
 ## How do I add games ? 
 
@@ -62,17 +77,15 @@ Sega Saturn performance is still quite slow and not worth the time really.
     
 ## Hows this different from Konstakangs build ?
 
-WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. 
+WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified .
 
 ## How to add android games ? 
 
-We use apkpure to sideload must our apps.  
-
-If you need google play services you'll have to install Google play and services.
+From dig frontend open "Aurora Store". It is a normal app store and will install apps for you. 
 
 ## Where/When?
 
-Should be on arcade punks and our mediafire in a week or two tops .
+Shipped to Devil with best wifi to upload to Arcade Punks today .
 
 ## How to add Google Play store ? 
 
