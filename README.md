@@ -9,17 +9,17 @@ WickedOS has everything you need to load your games and play .
 
 ## First Boot Setup 
 
-- You need a keyboard and mouse plugged in.
+1.You need a keyboard and mouse plugged in.
 
-- Press and hold F5 press reboot the recovery .
+2.Press and hold F5 press reboot the recovery .
 
-- After reboot click "Install"
+3.After reboot click "Install"
 
-- Find /sdcard/Tools/TWRP/resizePI4.zip 
+4.Find /sdcard/Tools/TWRP/resizePI4.zip 
 
-- This is resizing your the image to your SD card size . 
+5.This is resizing your the image to your SD card size . 
 
-- Swipe to install wait then reboot to system , 
+6.Swipe to install wait then reboot to system , 
 
 ## F.A.Q 
 
