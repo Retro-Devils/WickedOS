@@ -1,11 +1,11 @@
-Updatd September 29,2021
+Updated September 29,2021
 
 # WickedOS
 A android based operating system for Raspberry pi 4.
 
-WickedOS is built on konstakangs lineage 18.1
+WickedOS is built on konstakangs lineage 17.1
 
-WickedOS has everything you need to load your games and play . 
+WickedOS has everything you need to load your games and play. WickedOS will also be released on arcade punks loaded .  
 
 ## First Boot Setup 
 
@@ -27,13 +27,15 @@ WickedOS has everything you need to load your games and play .
 
 Retroarch is the main emu used. So most normal retroarch cores .
 
-N64, psp, dreamcast, and nds use standalone emulators.  
+N64, psp, dreamcast, and nds use standalone emulators/apps.  
 
 N64 performance is very smooth . Most games function better than retropie. This is due to emus used that were designed for android low end phones 
 
 Psp, dremcast and NDS performance is about the same as retropie . 
 
-Sega Saturn performance is still quite slow and not worth the time really.
+Sega Saturn performance is still quite slow and not worth the time really. Same currently with game use and wii.
+
+This may change will update if it does .
 
 ## How do I add games ? 
 
@@ -63,7 +65,7 @@ Sega Saturn performance is still quite slow and not worth the time really.
     
     2.Plug in a mouse.
     
-    3.Click and drag from top of screen.
+    3.Click and drag from top of screen twice. 
     
     4.Click settings icon .
     
@@ -71,13 +73,15 @@ Sega Saturn performance is still quite slow and not worth the time really.
     
     6.Find files.  
     
-    7.Find game and copy to desired location .
+    7.Find usb then your game and copy to desired location .
     
     note this will fail with larger files. 
     
 ## Hows this different from Konstakangs build ?
 
-WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified .
+WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified . 
+
+In the future we will be attempting to  complying android ourselves. This if successful will be the biggest difference.  
 
 ## How to add android games ? 
 
