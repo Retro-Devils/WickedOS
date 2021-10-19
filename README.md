@@ -33,7 +33,7 @@ N64 performance is very smooth . Most games function better than retropie. This 
 
 Psp, dremcast and NDS performance is about the same as retropie . 
 
-Sega Saturn performance is still quite slow and not worth the time really. Same currently with game use and wii.
+Sega Saturn performance is still quite slow and not worth the time really. Same currently with gamecube and wii.
 
 This may change will update if it does .
 
