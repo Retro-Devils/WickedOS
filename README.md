@@ -1,6 +1,6 @@
 ## Updated October 20,2021
 
-## Current Version: 1.2 
+## Current Version: 1.1 
 
 # WickedOS
 A android based, retro gaming operating system, for Raspberry Pi 4.
