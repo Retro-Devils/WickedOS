@@ -1,4 +1,5 @@
 ## Updated October 20,2021
+
 ## Current Version: 1.2 
 
 # WickedOS
@@ -120,7 +121,9 @@ To adjust controls
 -Open Retroarch set controls 
 
 -Repeat for standalone emus. Each one is a little different.
+
  Examples N64, PSP, Dreamcast etc.
+ 
  Standalone emus will be in android section of frontend.
 
 ## Notes and comments 
