@@ -1,12 +1,11 @@
-Updated September 29,2021
+## Updated October 20,2021
+## Current Version: 1.2 
 
 # WickedOS
-A android based operating system for Raspberry pi 4.
+A android based, retro gaming operating system, for Raspberry Pi 4.
 
-WickedOS is built on konstakangs lineage 17.1
-
-WickedOS has everything you need to load your games and play. WickedOS will also be released on arcade punks loaded .  
-
+WickedOS is built on Konstakangs Lineage 17.1.
+  
 ## First Boot Setup 
 
 1.You need a keyboard and mouse plugged in.
@@ -81,15 +80,24 @@ This may change will update if it does .
 
 WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified . 
 
-In the future we will be attempting to  complying android ourselves. This if successful will be the biggest difference.  
+In the future we will be attempting to complie android ourselves. This, if successful, will be the biggest difference.  
 
 ## How to add android games ? 
 
 From dig frontend open "Aurora Store". It is a normal app store and will install apps for you. 
 
-## Where/When?
+Sometimes these apps will not show in frontend.
 
-Shipped to Devil with best wifi to upload to Arcade Punks today .
+To solve this
+
+-Click on settings in Android system, then unhide files. If you see desired app listed unhide it will show in frontend. 
+
+If above do not work the app will more than likely not show in frontend .
+
+
+## Where do i download this at? 
+
+Uploaded to Arcade Punks 10/20/21. 
 
 ## How to add Google Play store ? 
 
@@ -102,6 +110,18 @@ Wipe -> Factory reset!
 Boot out of recovery.
 
 See Konstakangs site for more about play store .
+
+## Controller Configuration 
+
+On boot WickedOS is setup for a Xbox One style controller. 
+
+To adjust controls
+
+-Open Retroarch set controls 
+
+-Repeat for standalone emus. Each one is a little different.
+ Examples N64, PSP, Dreamcast etc.
+ Standalone emus will be in android section of frontend.
 
 ## Notes and comments 
 
