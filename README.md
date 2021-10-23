@@ -1,6 +1,7 @@
-## Updated October 22,2021
 
 ## WickedOS Version: 1.1 
+
+- Updated October 22, 2021 
 
 # General Info 
 
