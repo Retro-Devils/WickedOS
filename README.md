@@ -1,11 +1,12 @@
-## Updated October 20,2021
+## Updated October 22,2021
 
-## Current Version: 1.1 
+## WickedOS Version: 1.1 
 
-# WickedOS
-A android based, retro gaming operating system, for Raspberry Pi 4.
+# General Info 
 
-WickedOS is built on Konstakangs Lineage 17.1.
+- WickedOS is a android based, retro gaming os. Built for the Raspberry Pi 4.
+
+- WickedOS is built on Konstakangs Lineage 17.1.
   
 ## First Boot Setup 
 
