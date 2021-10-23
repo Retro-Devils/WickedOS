@@ -15,7 +15,7 @@ WickedOS is built on Konstakangs Lineage 17.1.
 
 3.After reboot click "Install"
 
-4.Find /sdcard/Tools/TWRP/resizePI4.zip 
+4.Find /sdcard/Tools/TWRP/resizePI4.zip.
 
 5.This is resizing your the image to your SD card size . 
 
@@ -25,17 +25,17 @@ WickedOS is built on Konstakangs Lineage 17.1.
 
 ## What can this play?
 
-Retroarch is the main emu used. So most normal retroarch cores .
+- Retroarch is the main emu used. So most normal retroarch cores.
 
-N64, psp, dreamcast, and nds use standalone emulators/apps.  
+- N64, psp, dreamcast, and nds use standalone emulators/apps.  
 
-N64 performance is very smooth . Most games function better than retropie. This is due to emus used that were designed for android low end phones 
+- N64 performance is very smooth . Most games function better than retropie. This is due to emus used that were designed for android low end phones.
 
-Psp, dremcast and NDS performance is about the same as retropie . 
+- Psp, dremcast and NDS performance is about the same as retropie. 
 
-Sega Saturn performance is still quite slow and not worth the time really. Same currently with gamecube and wii.
+- Sega Saturn performance is still quite slow and not worth the time really. Same currently with gamecube and wii.
 
-This may change will update if it does .
+- This may change will update if it does .
 
 ## How do I add games ? 
 
@@ -79,9 +79,9 @@ This may change will update if it does .
     
 ## Hows this different from Konstakangs build ?
 
-WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified . 
+WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified. 
 
-In the future we will be attempting to complie android ourselves. This, if successful, will be the biggest difference.  
+In the future we will be attempting to compile android ourselves. This, if successful, will be the biggest difference.  
 
 ## How to add android games ? 
 
@@ -91,7 +91,7 @@ Sometimes these apps will not show in frontend.
 
 To solve this
 
--Click on settings in Android system, then unhide files. If you see desired app listed unhide it will show in frontend. 
+- Click on settings in Android system, then unhide files. If you see desired app listed unhide it will show in frontend. 
 
 If above do not work the app will more than likely not show in frontend .
 
@@ -110,7 +110,7 @@ Wipe -> Factory reset!
 
 Boot out of recovery.
 
-See Konstakangs site for more about play store .
+See Konstakangs site for more about play store install. Link in sources at bottom of this guthub.
 
 ## Controller Configuration 
 
@@ -118,9 +118,9 @@ On boot WickedOS is setup for a Xbox One style controller.
 
 To adjust controls
 
--Open Retroarch set controls 
+- Open Retroarch set controls 
 
--Repeat for standalone emus. Each one is a little different.
+- Repeat for standalone emus. Each one is a little different.
 
  Examples N64, PSP, Dreamcast etc.
  
@@ -128,39 +128,65 @@ To adjust controls
 
 ## Notes and comments 
 
-Please see Konstakangs Website for more FAQ.
+- Please see Konstakangs Website for more FAQ.
 
-Tested many times so far so good . 
+- Tested many times so far so good . 
 
-If you have problems please report to "Retro Devils Support" Facebook group. Konstakangs build is super solid, if thiers a issue its more than likely something we did .
+- If you have problems please report to "Retro Devils Support" Facebook group. Konstakangs build is super solid, if thiers a issue its more than likely something we did .
 
-This is open source project . Feel free to use and modify .
+- This is open source project so feel free to use and modify .
 
-Other android build exist.
+- Other android builds exist.
 
-You can easily do this yourself to a extent. We built custom themes, used different apks etc. 
+- You can easily DIY this to a extent. We built custom themes, used different apks etc. 
+
+- With DIY aspect in mind we did not release a base. Just Arcade Punks version. Base will be released when/if we compile android ourselves. 
 
 
+# Whats the future plans for WickedOS?
+
+- More version and images built on os. 
+
+- Focus on getting more  "popular " systems before all systems .
+
+- A "Frontend Switcher ". Partly implemented now . Press home twice select frontend to launch. Currently list all apps to pick from as home app.
+
+# What do you want to see in WickedOs ?
+
+- Have Ideas?!?!? We would love your input on WickedOS. 
+
+- Email us at theretrodevils@gmail.com with the subject line WickedOS for all suggestions. SUGGESTIONS AND IDEAS ONLY PLEASE . 
 
 
-## Sources/Props/Credits
+# Wheres community/help? 
+
+- WickedOS Discord:  
+
+https://discord.gg/dw3mpWG7
+
+- Retro Devils Support Facebook Group: 
+
+https://www.facebook.com/groups/174562691371373/?ref=share
+
+
+# Sources/Props/Credits
 
 Konstakang. The reason this is possible. 
 
-Website:  https://konstakang.com/devices/rpi4/LineageOS17.1/
+https://konstakang.com/devices/rpi4/LineageOS17.1/
 
-Credits from Konstakangs site 
+# Credits from Konstakangs site 
 
-Peter Yoon and everyone who has contributed to android-rpibrobwind for bluetooth fixes
+- Peter Yoon and everyone who has contributed to android-rpibrobwind for bluetooth fixes
 
-Roman Stratiienko and GloDroid project for graphics fixes
+- Roman Stratiienko and GloDroid project for graphics fixes
 
-Eric Anholt for V3D graphics driver
+- Eric Anholt for V3D graphics driver
 
-Maxime Ripard for Pi 4 KMS driver
+- Maxime Ripard for Pi 4 KMS driver
 
-Google for Android Things platform
+- Google for Android Things platform
 
-Android-x86 project
+- Android-x86 project
 
-LineageOS team & everyone who has contributed to LineageOS 17.1
+- LineageOS team & everyone who has contributed to LineageOS 17.1
