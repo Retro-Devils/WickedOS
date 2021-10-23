@@ -129,11 +129,11 @@ To adjust controls
 
 - Standalone emus will be in android section of frontend.
 
-- If frontend feels/operates weird. Go to options/App/controller config. It will display a controller that you can change the mapping .
+- If frontend feels/operates weird. Go to options/App/controller config. It will display a controller that you can change the mapping.
 
 Controller Help 
 
-- Press home one time will take you back to frontend . Twice will ask what app to launch. Select DIG . 
+- Press home one time will take you back to frontend . Twice will ask what app to launch. Select DIG. 
 
 - My controller didn't work!!?!? Remeber this is android get a controller thats used with android.  
 
