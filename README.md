@@ -81,40 +81,43 @@
     
 ## Hows this different from Konstakangs build ?
 
-WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified. 
+- WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified. 
 
-In the future we will be attempting to compile android ourselves. This, if successful, will be the biggest difference.  
+- In the future we will be attempting to compile android ourselves. This, if successful, will be the biggest difference.  
 
 ## How to add android games ? 
 
-From dig frontend open "Aurora Store". It is a normal app store and will install apps for you. 
+From dig frontend 
 
-Sometimes these apps will not show in frontend.
+- Open Android 
 
-To solve this
+- Open "Aurora Store". It is a normal app store and will install apps for you. 
+
+- Search for and install your desired app. 
+
+Sometimes these apps will not show in frontend, to solve this.
 
 - Click on settings in Android system, then unhide files. If you see desired app listed unhide it will show in frontend. 
 
-If above do not work the app will more than likely not show in frontend .
-
+- If above do not work the app will more than likely not show in frontend 
 
 ## Where do i download this at? 
 
-Uploaded to Arcade Punks 10/20/21. 
+- Uploaded to Arcade Punks 10/20/21. 
 
 ## How to add Google Play store ? 
 
-Download open_gapps-arm-10.0-pico-xxxxxxxx.zip and save it to your device’s internal storage or use an external USB driveBoot to TWRP recovery.
+- Download open_gapps-arm-10.0-pico-xxxxxxxx.zip and save it to your device’s internal storage or use an external USB driveBoot to TWRP recovery.
 
-Install open_gapps-arm-10.0-pico-xxxxxxxx.zip from your selected storage
+- Install open_gapps-arm-10.0-pico-xxxxxxxx.zip from your selected storage
 
-Wipe -> Factory reset!
+- Wipe -> Factory reset!
 
-Boot out of recovery.
+- Boot out of recovery.
 
-See Konstakangs site for more about play store install. Link in sources at bottom of this guthub.
+- See Konstakangs site for more about play store install. Link in sources at bottom of this guthub.
 
-## Controller Configuration 
+## Controller Configuration/Help.
 
 On boot WickedOS is setup for a Xbox One style controller. 
 
@@ -122,11 +125,22 @@ To adjust controls
 
 - Open Retroarch set controls 
 
-- Repeat for standalone emus. Each one is a little different.
+- Repeat for standalone emus. Each one is a little different.Examples N64, PSP, Dreamcast etc 
 
- Examples N64, PSP, Dreamcast etc.
- 
- Standalone emus will be in android section of frontend.
+- Standalone emus will be in android section of frontend.
+
+- If frontend feels/operates weird. Go to options/App/controller config. It will display a controller that you can change the mapping .
+
+Controller Help 
+
+- Press home one time will take you back to frontend . Twice will ask what app to launch. Select DIG . 
+
+- My controller didn't work!!?!? Remeber this is android get a controller thats used with android.  
+
+- Does bluetooth work . With right controller yes . 
+
+- What controller do you recommend? Xbox One, PS4, and Gamesir(highest ranked) . 
+
 
 ## Notes and comments 
 
@@ -144,6 +158,8 @@ To adjust controls
 
 - With DIY aspect in mind we did not release a base. Just Arcade Punks version. Base will be released when/if we compile android ourselves. 
 
+- Don't like the boot video? Use Boot animator in android section to change it , 
+
 
 # Whats the future plans for WickedOS?
 
@@ -153,7 +169,7 @@ To adjust controls
 
 - A "Frontend Switcher ". Partly implemented now . Press home twice select frontend to launch. Currently list all apps to pick from as home app.
 
-# What do you want to see in WickedOs ?
+# What do you want to see in WickedOS ?
 
 - Have Ideas?!?!? We would love your input on WickedOS. 
 
@@ -173,7 +189,7 @@ https://www.facebook.com/groups/174562691371373/?ref=share
 
 # Sources/Props/Credits
 
-Konstakang. The reason this is possible. 
+- Konstakang. The reason this is possible. 
 
 https://konstakang.com/devices/rpi4/LineageOS17.1/
 
