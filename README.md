@@ -23,6 +23,8 @@
 
 6.Swipe to install wait then reboot to system , 
 
+7. When system reboots . Double click on dig .
+
 ## F.A.Q 
 
 ## What can this play?
