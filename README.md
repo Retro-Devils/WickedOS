@@ -1,7 +1,7 @@
 
 ## WickedOS Version: 1.1 
 
-- Updated October 22, 2021 
+- Updated October 25, 2021 
 
 # General Info 
 
@@ -143,6 +143,27 @@ Controller Help
 
 - What controller do you recommend? Xbox One, PS4, and Gamesir(highest ranked) . 
 
+# What Android games work? Work in progress.
+
+-Stadia
+
+-Xbox Game Pass 
+
+-Call of Duty Mobile (stupid setup )
+
+-Candy Crush
+
+-Zen Pinball 
+
+-Aurora Store 
+
+-Octopus Game Mapper 
+
+-Williams Pinball(mouse needed) 
+
+-Zaccarria Pinball 
+
+-Kodi
 
 ## Notes and comments 
 
