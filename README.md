@@ -199,7 +199,7 @@ Controller Help
 - Email us at theretrodevils@gmail.com with the subject line WickedOS for all suggestions. SUGGESTIONS AND IDEAS ONLY PLEASE . 
 
 
-# Wheres community/help? 
+# Where is community/help? 
 
 - WickedOS Discord:  
 
