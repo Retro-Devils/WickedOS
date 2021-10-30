@@ -21,7 +21,7 @@
 
 5.This is resizing your the image to your SD card size . 
 
-6.Swipe to install wait then reboot to system , 
+6.Swipe to install wait then reboot to system.
 
 7. When system reboots . Double click on dig .
 
