@@ -201,9 +201,9 @@ Controller Help
 
 # Where is community/help? 
 
-- WickedOS Discord:  
+- WickedOS Discord:
 
-https://discord.gg/dw3mpWG7
+https://discord.gg/AMDVbQKBAP 
 
 - Retro Devils Support Facebook Group: 
 
@@ -230,4 +230,4 @@ https://konstakang.com/devices/rpi4/LineageOS17.1/
 
 - Android-x86 project
 
-- LineageOS team & everyone who has contributed to LineageOS 17.1
+- LineageOS team & everyone who has contributed to LineageOS 17.1.
