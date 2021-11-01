@@ -1,7 +1,13 @@
 
-## WickedOS Version: 1.1 
+## WickedOS 
 
-- Updated October 25, 2021 
+## Version: 1.1 
+
+- Github updated November 1, 2021 
+
+## Version 1.5 in the works 
+
+See changelog.txt for more .
 
 # General Info 
 
