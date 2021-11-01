@@ -82,22 +82,4 @@ https://www.facebook.com/groups/174562691371373/?ref=share
 
 # Sources/Props/Credits
 
-- Konstakang. The reason this is possible. 
-
-https://konstakang.com/devices/rpi4/LineageOS17.1/
-
-# Credits from Konstakangs site 
-
-- Peter Yoon and everyone who has contributed to android-rpibrobwind for bluetooth fixes
-
-- Roman Stratiienko and GloDroid project for graphics fixes
-
-- Eric Anholt for V3D graphics driver
-
-- Maxime Ripard for Pi 4 KMS driver
-
-- Google for Android Things platform
-
-- Android-x86 project
-
-- LineageOS team & everyone who has contributed to LineageOS 17.1.
+https://github.com/Retro-Devils/WickedOS/blob/main/Credits
