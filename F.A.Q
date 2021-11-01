@@ -2,7 +2,6 @@
 Updated November 1, 2021
 
 What can this play?
-
 Retroarch is the main emu used. So most normal retroarch cores.
 N64, psp, dreamcast, and nds use standalone emulators/apps.
 N64 performance is very smooth . Most games function better than retropie. This is due to emus used that were designed for android low end phones.
@@ -36,15 +35,12 @@ Small games follow these instructions
 6.Find files. 
 7.Find usb then your game and copy to desired location . 
     note this will fail with larger files. 
-
-
-
-
-
+    
+    
+    
 Hows this different from Konstakangs build ?
 WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified.
 In the future we will be attempting to compile android ourselves. This, if successful, will be the biggest difference.
-
 
 
 
@@ -58,8 +54,11 @@ Click on settings in Android system, then unhide files. If you see desired app l
 If above do not work the app will more than likely not show in frontend
 
 
+
 Where do i download this at?
 Uploaded to Arcade Punks 10/20/21.
+
+
 
 How to add Google Play store ?
 Download open_gapps-arm-10.0-pico-xxxxxxxx.zip and save it to your device’s internal storage or use an external USB driveBoot to TWRP recovery.
@@ -67,7 +66,6 @@ Install open_gapps-arm-10.0-pico-xxxxxxxx.zip from your selected storage
 Wipe -> Factory reset!
 Boot out of recovery.
 See Konstakangs site for more about play store instal. Link in sources at bottom of this guthub.
-
 
 
 
@@ -84,8 +82,12 @@ If frontend feels/operates weird. Go to options/App/controller config. It will d
 Controller Help
 Press home one time will take you back to frontend . Twice will ask what app to launch. Select DIG.
 
+
+
 My controller didn't work!!?!? 
 Remeber this is android get a controller thats used with android.
+
+
 
 Does bluetooth work?
 With right controller yes .
