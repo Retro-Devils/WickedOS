@@ -31,7 +31,9 @@ See changelog.txt for more .
 
 7. When system reboots . Double click on dig .
 
-## F.A.Q See 
+## F.A.Q
+
+https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 ## Notes and comments 
 
