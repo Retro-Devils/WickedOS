@@ -1,0 +1,9 @@
+Version 1.1 to 1.5 
+Updated November 1, 2021 
+
+- Using Pegasus instead of DIG as frontend 
+- Release a base with Pegasus 
+- Included all game media even with ganea not included 
+- Trying to use Konstakang 18.1 vs 17.1 
+- Add Android Gaming App support apps eg Octopus Game Mapper 
+- Include at minimum 5 themes 
