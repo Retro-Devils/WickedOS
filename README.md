@@ -64,7 +64,7 @@ https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 # What do you want to see in WickedOS ?
 
-- Have Ideas?!?!? We would love your input on WickedOS. 
+- Have Ideas?!?!? We would love your input on WickedOS.  Discord and Facebook currently best way to interact .
 
 - Email us at theretrodevils@gmail.com with the subject line WickedOS for all suggestions. SUGGESTIONS AND IDEAS ONLY PLEASE . 
 
