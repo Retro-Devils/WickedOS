@@ -82,14 +82,23 @@ If frontend feels/operates weird. Go to options/App/controller config. It will d
 Controller Help
 
 Press home one time will take you back to frontend . Twice will ask what app to launch. Select DIG.
-My controller didn't work!!?!? Remeber this is android get a controller thats used with android.
-Does bluetooth work . With right controller yes .
-What controller do you recommend? Xbox One, PS4, and Gamesir(highest ranked) .
+
+My controller didn't work!!?!? 
+
+Remeber this is android get a controller thats used with android.
+
+Does bluetooth work?
+
+With right controller yes .
+
+
+What controller do you recommend?
+
+Xbox One, PS4, and Gamesir(highest ranked) .
 
 
 
 What Android games work? Work in progress.
-
 -Stadia
 -Xbox Game Pass
 -Call of Duty Mobile (stupid setup )
