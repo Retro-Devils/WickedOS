@@ -5,7 +5,9 @@
 
 - Github updated November 24, 2021 
 
-## Version 1.5 in the works 
+## Version 1.5 in the works
+
+Nearly Finished With WickedOS 1.5.Unless something strange happens, we should release end of 2020 begining of 2021.
 
 See changelog.txt for more .
 
