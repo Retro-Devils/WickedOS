@@ -1,9 +1,40 @@
 Version 1.1 to 1.5 
-Updated November 1, 2021 
+Updated November 24, 2021 
 
-- Using New Frontend instead of DIG 
-- Release a base with Pegasus 
-- Included all game media even with ganea not included 
-- Trying to use Konstakang 18.1 vs 17.1 
-- Add Android Gaming App support apps eg Octopus Game Mapper 
-- Include at minimum 3 themes 
+- Added Reset  Collection as a 3rd fontend.
+- Added Octopus Game Mapper as 4th frontend. (mouse required)
+- Using a Frontend Switcher to switch between 3 frontends.
+  Customized & ready to play frontends 
+    -Android TV  Modified 
+    -DIG
+    -Reset Collection
+    -Octopus Mapper
+- Base will be released a month or so after 1.5 release. 
+    -See Base section elow for more base info.
+- DIG and Reset have all box art etc themed and looking nice.
+- Using Konstakang 18.1 Android TV modified for app view etc.
+- Added/Adding native android apps
+  -Williams Pinball
+  -Frag
+  -Stadia
+  -Steam Link
+  -Zen Pinball
+  -All apps in base
+
+WickedOS Base 1.5
+-Built on Konstakang 18.1 Android TV
+-Apps Installed
+  -Retroarch
+  -DIG
+  -Lucky Patcher 
+  -PPSSPP
+  -Stadia
+  -Steam Link
+  -Drastic
+  -Octopus
+  -MAME4ALLssed
+  -Aurora Store
+  -MupenFZ Free
+  -DuckDuckGo
+  -Boot Video Editor
+  -File Manager +
