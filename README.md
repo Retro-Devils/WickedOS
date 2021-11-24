@@ -3,7 +3,7 @@
 
 ## Version: 1.1 
 
-- Github updated November 1, 2021 
+- Github updated November 24, 2021 
 
 ## Version 1.5 in the works 
 
@@ -29,7 +29,7 @@ See changelog.txt for more .
 
 6.Swipe to install wait then reboot to system.
 
-7. When system reboots . Double click on dig .
+7.When system reboots . Double click on dig .
 
 ## F.A.Q
 
@@ -37,30 +37,30 @@ https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 ## Notes and comments 
 
-- Please see Konstakangs Website for more FAQ.
+-Please see Konstakangs Website for more FAQ.
 
-- Tested many times so far so good . 
+-Tested many times so far so good . 
 
-- If you have problems please report to "Retro Devils Support" Facebook group. Konstakangs build is super solid, if thiers a issue its more than likely something we did .
+-If you have problems please report to "Retro Devils Support" Facebook group. Konstakangs build is super solid, if thiers a issue its more than likely something we did .
 
-- This is open source project so feel free to use and modify .
+-This is open source project so feel free to use and modify .
 
-- Other android builds exist.
+-Other android builds exist.
 
-- You can easily DIY this to a extent. We built custom themes, used different apks etc. 
+-You can easily DIY this to a extent. We built custom themes, used different apks etc. 
 
-- With DIY aspect in mind we did not release a base. Just Arcade Punks version. Base will be released when/if we compile android ourselves. 
+-With DIY aspect in mind we did not release a base. Just Arcade Punks version. Base will be released when/if we compile android ourselves. 
 
-- Don't like the boot video? Use Boot animator in android section to change it , 
+-Don't like the boot video? Use Boot animator in android section to change it , 
 
 
 # Whats the future plans for WickedOS?
 
-- More version and images built on os. 
+-More version and images built on os. 
 
-- Focus on getting more  "popular " systems before all systems .
+-Focus on getting more  "popular " systems before all systems .
 
-- A "Frontend Switcher ". Partly implemented now . Press home twice select frontend to launch. Currently list all apps to pick from as home app.
+-A "Frontend Switcher ". Partly implemented now . Press home twice select frontend to launch. Currently list all apps to pick from as home app.
 
 # What do you want to see in WickedOS ?
 
