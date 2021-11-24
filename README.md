@@ -9,7 +9,7 @@
 
 Nearly Finished With WickedOS 1.5.Unless something strange happens, we should release end of 2020 begining of 2021.
 
-See changelog.txt for more .
+See changelog.txt in android/  home folder for more .
 
 # General Info 
 
