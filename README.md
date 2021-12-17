@@ -1,7 +1,9 @@
 
 ## WickedOS Version 1.5
 
-# Updated December 17 2021. 1.5 uploading in next day or two . 
+Updated December 17 2021. 
+
+1.5 uploading in next day or two . 
 
 # General Info 
 
