@@ -28,6 +28,10 @@ Downloaders Available :
 - Aurora Store 
 - Moddroid
 
+Play Store Changes 
+- Play store installed.
+- Burner Gmail pre signed in.
+ 
 Base OS:
 - Lineage 18.1 instead of 17.1
 
