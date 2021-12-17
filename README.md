@@ -1,6 +1,8 @@
 
 ## WickedOS 
 
+## UPDATED DECEMBER 16 2021
+
 ## Version 1.5 uploading in next day or two . 
 
 WickedOS 1.5 changes vs 1.0
