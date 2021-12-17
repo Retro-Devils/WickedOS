@@ -1,21 +1,41 @@
 
 ## WickedOS 
 
-## Version: 1.1 
+## Version 1.5 uploading in next day or two . 
 
-- Github updated November 24, 2021 
+WickedOS 1.5 changes vs 1.0
 
-## Version 1.5 in the works
+Android Games/Apps Added :
+- Terraria.        - Stardew Valley.        - Extreme Racer 2
+- KOTOR 2.         - GTA 3.                 - Zen Pinball
+- 3d Pinball.      - GTA Vice City.         - Minecraft 
+- Worms 3.         - HD Pinball.            - Dead Zed
+- Getaway 2.       - YouTube.               - Steam 
+- Moonlight.       - Pluto TV.              - Netflix 
+- Octopus.         - Duckduckgo.            - Boot Video Editor 
 
-Nearly Finished With WickedOS 1.5.Unless something strange happens, we should release end of 2020 begining of 2021.
+Systems added/on Wicked 1.5 :
+- Atari 2600.        - Atari7800.             - Commadore64
+- DS.                - GBA.                   - N64
+- PS1.               - SNES .                 - PSP
+- Dremcast.          - Game gear.             - Mastersystem
+- Genesis 
 
-See changelog.txt in android/  home folder for more .
+Downloaders Available :
+- Devils Box 
+- Roms Download 
+- Andronautico 
+- Aurora Store 
+- Moddroid
+
+Base OS:
+- Lineage 18.1 instead of 17.1
 
 # General Info 
 
 - WickedOS is a android based, retro gaming os. Built for the Raspberry Pi 4.
 
-- WickedOS is built on Konstakangs Lineage 17.1.
+- WickedOS is built on Konstakangs Lineage 18.1.
   
 ## First Boot Setup 
 
@@ -25,13 +45,13 @@ See changelog.txt in android/  home folder for more .
 
 3.After reboot click "Install"
 
-4.Find /sdcard/Tools/TWRP/resizePI4.zip.
+4.Find /sdcard/PITools/resizePI4.zip.
 
 5.This is resizing your the image to your SD card size . 
 
 6.Swipe to install wait then reboot to system.
 
-7.When system reboots . Double click on dig .
+7.When system reboots it will load DIG.
 
 ## F.A.Q
 
@@ -39,30 +59,31 @@ https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 ## Notes and comments 
 
--Please see Konstakangs Website for more FAQ.
+- Please see Konstakangs Website for more FAQ.
 
--Tested many times so far so good . 
+- Tested many times so far so good . 
 
--If you have problems please report to "Retro Devils Support" Facebook group. Konstakangs build is super solid, if thiers a issue its more than likely something we did .
+- If you have problems please report to "Retro Devils Support" Facebook group. Konstakangs build is super solid, if thiers a issue its more than likely something we did .
 
--This is open source project so feel free to use and modify .
+- This is open source project so feel free to use and modify .
 
--Other android builds exist.
+- Other android builds exist.
 
--You can easily DIY this to a extent. We built custom themes, used different apks etc. 
+- You can easily DIY this to a extent. We built custom themes, used different apks etc. 
 
--With DIY aspect in mind we did not release a base. Just Arcade Punks version. Base will be released when/if we compile android ourselves. 
-
--Don't like the boot video? Use Boot animator in android section to change it , 
+- Don't like the boot video? Use Boot animator in android section to change it , 
 
 
 # Whats the future plans for WickedOS?
 
--More version and images built on os. 
+- More versions and images built on os. 
 
--Focus on getting more  "popular " systems before all systems .
+- Focus on getting more  "popular " systems before all systems .
 
--A "Frontend Switcher ". Partly implemented now . Press home twice select frontend to launch. Currently list all apps to pick from as home app.
+- A "Frontend Switcher "
+
+- A better android frontend
+
 
 # What do you want to see in WickedOS ?
 
@@ -77,7 +98,7 @@ https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 https://discord.gg/AMDVbQKBAP 
 
-- Retro Devils Support Facebook Group: 
+- Retro Devils Community Facebook Group: 
 
 https://www.facebook.com/groups/174562691371373/?ref=share
 
