@@ -47,7 +47,7 @@ https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 - Don't like the boot video? Use Boot animator in android section to change it , 
 
-Reto systems available on Wicked 1.5 :
+Retro systems available on Wicked 1.5 :
 - Atari 2600.        
 - Atari7800.             
 - Commadore64
