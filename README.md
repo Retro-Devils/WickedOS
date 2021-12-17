@@ -13,19 +13,19 @@
   
 ## First Boot Setup 
 
-1.You need a keyboard and mouse plugged in.
+1. You need a keyboard and mouse plugged in.
 
-2.Press and hold F5 press reboot the recovery .
+2. Press and hold F5 press reboot the recovery .
 
-3.After reboot click "Install"
+3. After reboot click "Install"
 
-4.Find /sdcard/PITools/resizePI4.zip.
+4. Find /sdcard/PITools/resizePI4.zip.
 
-5.This is resizing your the image to your SD card size . 
+5. This is resizing your the image to your SD card size . 
 
-6.Swipe to install wait then reboot to system.
+6. Swipe to install wait then reboot to system.
 
-7.When system reboots it will load DIG.
+7. When system reboots it will load DIG.
 
 ## F.A.Q
 
