@@ -100,7 +100,7 @@ https://discord.gg/AMDVbQKBAP
 
 - Retro Devils Community Facebook Group: 
 
-https://www.facebook.com/groups/174562691371373/?ref=share
+https://bit.ly/3sfAmMA
 
 
 # Sources/Props/Credits
