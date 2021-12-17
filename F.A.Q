@@ -1,5 +1,5 @@
 
-Updated November 1, 2021
+Updated December 16, 2021
 
 What can this play?
 Retroarch is the main emu used. So most normal retroarch cores.
@@ -13,30 +13,15 @@ This may change will update if it does .
 
 How do I add games ?
 
-Large games or packs follow these instructions
-
-1.Plug in keyboard press and hold f5. 
-2.Press reboot then recovery. 
-3.Plug your hardrive into a USB port. USB must fat32. 
-4.Click mount the select USB. 
-5.Go back to main menu. 
-6.To go Advanced then file manager then find USB. 
-7.Find and enter folder you wish to copy and click select folder then copy. 
-8.Select copy location. 
-9. Click confirm . Repeat per game folder . 
-
-Small games follow these instructions
-
 1.Plug in USB drive. 
 2.Plug in a mouse. 
 3.Click and drag from top of screen twice. 
 4.Click settings icon . 
 5.Click apps then all apps. 
 6.Find files. 
-7.Find usb then your game and copy to desired location . 
-    note this will fail with larger files. 
-    
-    
+7.Find usb then your game and copy to /Roms/systemname
+8.Copy boxarts if you have em too /Metadata/Covers/systemname
+
     
 Hows this different from Konstakangs build ?
 WickedOS has everything installed for ya. Retroarch, other emus, a retro frontend etc. Some of these apps are special versions or modified.
@@ -44,10 +29,9 @@ In the future we will be attempting to compile android ourselves. This, if succe
 
 
 
-How to add android games ?
-From dig frontend
-Open Android
-Open "Aurora Store". It is a normal app store and will install apps for you.
+How to add android games?
+Go to Android then aurora store, load it up.
+It is a normal app store and will install apps for you.
 Search for and install your desired app.
 Sometimes these apps will not show in frontend, to solve this.
 Click on settings in Android system, then unhide files. If you see desired app listed unhide it will show in frontend.
@@ -56,17 +40,7 @@ If above do not work the app will more than likely not show in frontend
 
 
 Where do i download this at?
-Uploaded to Arcade Punks 10/20/21.
-
-
-
-How to add Google Play store ?
-Download open_gapps-arm-10.0-pico-xxxxxxxx.zip and save it to your device’s internal storage or use an external USB driveBoot to TWRP recovery.
-Install open_gapps-arm-10.0-pico-xxxxxxxx.zip from your selected storage
-Wipe -> Factory reset!
-Boot out of recovery.
-See Konstakangs site for more about play store instal. Link in sources at bottom of this guthub.
-
+Uploading 1.5 to Arcade Punks before 2022.
 
 
 Controller Configuration/Help.
@@ -109,3 +83,4 @@ What Android games work? Work in progress.
 -Williams Pinball(mouse needed)
 -Zaccarria Pinball
 -Kodi
+-Watch Byteman on YouTube he does alot of testing on konstakangs os 
