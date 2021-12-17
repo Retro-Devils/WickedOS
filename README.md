@@ -5,38 +5,6 @@
 
 ## Version 1.5 uploading in next day or two . 
 
-WickedOS 1.5 changes vs 1.0
-
-Android Games/Apps Added :
-- Terraria.        - Stardew Valley.        - Extreme Racer 2
-- KOTOR 2.         - GTA 3.                 - Zen Pinball
-- 3d Pinball.      - GTA Vice City.         - Minecraft 
-- Worms 3.         - HD Pinball.            - Dead Zed
-- Getaway 2.       - YouTube.               - Steam 
-- Moonlight.       - Pluto TV.              - Netflix 
-- Octopus.         - Duckduckgo.            - Boot Video Editor 
-
-Systems added/on Wicked 1.5 :
-- Atari 2600.        - Atari7800.             - Commadore64
-- DS.                - GBA.                   - N64
-- PS1.               - SNES .                 - PSP
-- Dremcast.          - Game gear.             - Mastersystem
-- Genesis 
-
-Downloaders Available :
-- Devils Box 
-- Roms Download 
-- Andronautico 
-- Aurora Store 
-- Moddroid
-
-Play Store Changes 
-- Play store installed.
-- Burner Gmail pre signed in.
- 
-Base OS:
-- Lineage 18.1 instead of 17.1
-
 # General Info 
 
 - WickedOS is a android based, retro gaming os. Built for the Raspberry Pi 4.
@@ -79,6 +47,34 @@ https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 - Don't like the boot video? Use Boot animator in android section to change it , 
 
+Reto systems available on Wicked 1.5 :
+- Atari 2600.        
+- Atari7800.             
+- Commadore64
+- DS.                
+- GBA.                   
+- N64
+- PS1.               
+- SNES .                 
+- PSP
+- Dremcast.         
+- Game gear.             
+- Mastersystem
+- Genesis 
+
+Downloading Stuff Apps Available :
+- Devils Box 
+- Roms Download 
+- Andronautico 
+- Aurora Store 
+- Moddroid
+
+Play Store Changes 
+- Play store installed.
+- Burner Gmail pre signed in.
+ 
+Base OS:
+- Lineage 18.1 instead of 17.1
 
 # Whats the future plans for WickedOS?
 
