@@ -1,5 +1,5 @@
 
-Updated December 16, 2021
+Updated Janurary 5, 2022
 
 What can this play?
 Retroarch is the main emu used. So most normal retroarch cores.
