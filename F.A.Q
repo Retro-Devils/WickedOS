@@ -40,8 +40,8 @@ If above do not work the app will more than likely not show in frontend
 
 
 Where do i download this at?
-Uploading 1.5 to Arcade Punks before 2022.
-
+Uploaded to Facebook and discord January 2 2022
+Will be on arcade punks soon .
 
 Controller Configuration/Help.
 On boot WickedOS is setup for a Xbox One style controller.
@@ -50,12 +50,6 @@ Open Retroarch set controls
 Repeat for standalone emus. Each one is a little different.Examples N64, PSP, Dreamcast etc
 Standalone emus will be in android section of frontend.
 If frontend feels/operates weird. Go to options/App/controller config. It will display a controller that you can change the mapping.
-
-
-
-Controller Help
-Press home one time will take you back to frontend . Twice will ask what app to launch. Select DIG.
-
 
 
 My controller didn't work!!?!? 
