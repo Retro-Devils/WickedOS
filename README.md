@@ -98,7 +98,7 @@ Base OS:
 
 # Where is community/help? 
 
-- WickedOS Discord:
+- Retro Devils Community Discord:
 
 https://discord.gg/AMDVbQKBAP 
 
