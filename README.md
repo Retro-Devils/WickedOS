@@ -1,9 +1,11 @@
 
 ## WickedOS 
 
-- Updated December 17 2021. 
+- Updated Janurary 5 2022
 
-- Version 1.5 uploading in next day or two . 
+- Version 1.5 uploaded to our Facebook and discord .
+
+- Should be on Arcade Punks very soon .
 
 # General Info 
 
