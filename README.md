@@ -3,8 +3,6 @@
 
 - Updated Janurary 5 2022
 
-- Version 1.5 uploaded to our Facebook and discord .
-
 - Available on Arcade Punks now , 
 
 # General Info 
