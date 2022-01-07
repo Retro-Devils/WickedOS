@@ -5,7 +5,7 @@
 
 - Version 1.5 uploaded to our Facebook and discord .
 
-- Should be on Arcade Punks very soon .
+- Available on Arcade Punks now , 
 
 # General Info 
 
@@ -76,7 +76,7 @@ Play Store Changes
 - Burner Gmail pre signed in.
  
 Base OS:
-- Lineage 18.1 instead of 17.1
+- WickedOS 1.5is built on Konstakangs port of Lineage 18.1.
 
 # Whats the future plans for WickedOS?
 
