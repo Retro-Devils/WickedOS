@@ -1,9 +1,11 @@
 
 ## WickedOS 
 
-- Updated Janurary 5 2022
+- Updated Janurary 28, 2022
 
-- Available on Arcade Punks now , 
+- Most Recent Version: 1.5
+
+- Available on Arcade Punks now 
 
 # General Info 
 
@@ -13,6 +15,8 @@
   
 ## First Boot Setup 
 
+* Resize to SD card spcae
+ 
 1. You need a keyboard and mouse plugged in.
 
 2. Press and hold F5 press reboot the recovery .
@@ -26,6 +30,8 @@
 6. Swipe to install wait then reboot to system.
 
 7. When system reboots it will load DIG.
+
+* Alternatively you can expand filesystem with gparted. Partition #4
 
 ## F.A.Q
 
@@ -74,15 +80,13 @@ Play Store Changes
 - Burner Gmail pre signed in.
  
 Base OS:
-- WickedOS 1.5is built on Konstakangs port of Lineage 18.1.
+- WickedOS 1.5 is built on Konstakangs port of Lineage 18.1.
 
 # Whats the future plans for WickedOS?
 
 - More versions and images built on os. 
 
 - Focus on getting more  "popular " systems before all systems .
-
-- A "Frontend Switcher "
 
 - A better android frontend
 
@@ -91,7 +95,7 @@ Base OS:
 
 - Have Ideas?!?!? We would love your input on WickedOS.  Discord and Facebook currently best way to interact .
 
-- Email us at theretrodevils@gmail.com with the subject line WickedOS for all suggestions. SUGGESTIONS AND IDEAS ONLY PLEASE . 
+- Email us at theretrodevils@gmail.com with the subject line WickedOS for all suggestions. SUGGESTIONS AND IDEAS ONLY PLEASE. 
 
 
 # Where is community/help? 
