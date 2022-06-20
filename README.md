@@ -72,12 +72,6 @@ Play Store Changes
 Base OS:
 - Devilsdroid is built on Konstakangs port of Lineage 18.1.
 
-# Whats the future plans for Devilsdroid?
-
-- More versions and images built on os. 
-
-- Focus on getting more  "popular " systems before all systems .
-
 # Notes and comments----Cerberus V1.00
 
 
