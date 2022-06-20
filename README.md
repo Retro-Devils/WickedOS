@@ -10,7 +10,8 @@
 # General Info 
 
 - WickedOS is a dual boot operating system made with PINN for PI 4. 
-It boots to either a android retro gaming OS aka DevilsDroid Version 1.00 or a Retropie OS aka Cereberus Version 1.0
+
+It boots to either a android retro gaming OS aka DevilsDroid Version 1.00 or a Retropie OS aka Cereberus Version 1.00
 
 - WickedOS is built on Konstakangs Lineage 18.1 and Retropie 4.7
   
