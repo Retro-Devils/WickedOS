@@ -1,27 +1,23 @@
-# --- Sources/Props/Credits ---
+# --- Sources/Props/Credits For WickedOS  ---
 
-- PINN----for dual boot capabilities----
+- PINN
 
-- Retropie----cause they rock.
-
-- Konstakang----The reason Android on Pi is possible----https://konstakang.com/devices/rpi4/LineageOS17.1/
+Credits for dual boot capabilities.
 
 
 
+- Retropie
 
-# --- Credits from Konstakangs site ---
+Because they rock.
 
-- Peter Yoon and everyone who has contributed to android-rpibrobwind for bluetooth fixes
+retropie.org.uk
 
-- Roman Stratiienko and GloDroid project for graphics fixes
 
-- Eric Anholt for V3D graphics driver
 
-- Maxime Ripard for Pi 4 KMS driver
+- Konstakang
 
-- Google for Android Things platform
+The reason Android on Pi is possible.
 
-- Android-x86 project
+https://konstakang.com/devices/rpi4/LineageOS17.1/
 
-- LineageOS team & everyone who has contributed to LineageOS 17.1.
 
