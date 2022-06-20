@@ -41,7 +41,7 @@ https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
 ## Notes and comments 
 
-#--------------Devilsdroid V1.00--------------
+# --------------Devilsdroid V1.00--------------
 
 - Please see Konstakangs Website for more FAQ.
 
@@ -79,7 +79,7 @@ Base OS:
 
 - Focus on getting more  "popular " systems before all systems .
 
-#--------------Cerberus V1.00--------------
+# --------------Cerberus V1.00--------------
 
 
 - This is open source project so feel free to use and modify .
