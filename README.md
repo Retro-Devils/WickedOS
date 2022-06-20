@@ -39,7 +39,7 @@ It boots to either a android retro gaming OS aka DevilsDroid Version 1.00 or a R
 
 https://github.com/Retro-Devils/WickedOS/blob/main/F.A.Q
 
-# Notes and comments----Devilsdroid V1.00--------------
+# Notes and comments----Devilsdroid V1.00
 
 - Please see Konstakangs Website for more FAQ.
 
@@ -77,7 +77,7 @@ Base OS:
 
 - Focus on getting more  "popular " systems before all systems .
 
-# Notes and comments----Cerberus V1.00--------------
+# Notes and comments----Cerberus V1.00
 
 
 - This is open source project so feel free to use and modify .
