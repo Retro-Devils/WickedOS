@@ -115,9 +115,6 @@ Base OS:
 
 - Have Ideas?!?!? We would love your input on WickedOS.  Discord and Facebook currently best way to interact .
 
-- Email us at theretrodevils@gmail.com with the subject line WickedOS for all suggestions. SUGGESTIONS AND IDEAS ONLY PLEASE. 
-
-
 # Where is community/help? 
 
 - Retro Devils Community Discord:
