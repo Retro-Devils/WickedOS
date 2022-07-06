@@ -14,27 +14,7 @@
 It boots to either a android retro gaming OS aka DevilsDroid Version 1.00 or a Retropie OS aka Cereberus Version 1.00
 
 - WickedOS is built on Konstakangs Lineage 18.1 and Retropie 4.7
-  
-## First Boot Setup 
-
-* Install Operating Systems
  
-1. Burn PINN to sd card 
-
-2. Transfer Cereberus-V1.00 and Devilsdroid-V1.00 Folders to SD card on pc. Place thme in os folder  
-
-3. Put sd card in pi . Pug in  mouse 
-
-4. Click to enter debug
-
-5. Click arrow go to utilites 
-
-6. Install Cerberus and Devilsdroid
-
-7. Reboot the pi if it doesnt.
-
-8. Choose your os and enjoy.  
-
 
 ## F.A.Q
 
