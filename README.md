@@ -1,11 +1,9 @@
 
 ## WickedOS 
 
-- Updated June 10, 2022
+- Updated August 11, 2022
 
-- Most Recent Version: 1.5 ---  Available on Arcade Punks now 
-
-- Version 2.0 done in testing
+- Most Recent Version: 2.0 ---  Available on Arcade Punks now 
 
 # General Info 
 
