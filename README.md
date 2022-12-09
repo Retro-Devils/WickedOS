@@ -44,8 +44,7 @@ Downloading Stuff Apps Available :
 - Aurora Store 
 
 Play Store Changes 
-- Play store installed.
-- Burner Gmail pre signed in.
+- Play store uninstalled.
  
 Base OS:
 - Devilsdroid is built on Konstakangs port of Lineage 18.1.
